@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+body{
+    background-color: gold;
+}
+
+h1{
+    height: 100px;
+    width: 100%;
+    color: maroon;
+    text-align: center;
+}
+
+.main-div{
+    height: 500px;
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.id1{
+    height: 250px;
+    width: 50%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}

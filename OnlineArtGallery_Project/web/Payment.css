@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+
+}
+body{
+    background-color: gold;
+}
+
+h1{
+    height: 160px;
+    width: 100%;
+    color: maroon;
+    text-align: center;
+}
+.main-div{
+    height: 250px;
+    width: 100%;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.id1{
+    height: 250px;
+    width: 500px;
+    background-color: red;
+    text-align: center;
+}
+a{
+    
+    height: 100px;
+    width: 100px;
+    text-decoration: none;
+    color: white;
+}

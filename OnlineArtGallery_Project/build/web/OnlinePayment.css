@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+
+}
+body{
+    background-color: gold;
+}
+
+h1{
+    height: 160px;
+    width: 100%;
+    color: maroon;
+    text-align: center;
+}
+.main-div{
+    height: 250px;
+    width: 100%;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.id1{
+    height: 250px;
+    width: 500px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+input{
+    height: 30px;
+    border-radius: 10px;
+    
+}
+button{
+	height: 50px;
+	width: 90px;
+	background-color: maroon;
+	color: white;
+	border-radius: 30px;
+	font-size: 1.1em;
+        margin-left: 150px;
+        margin-top: 20px;
+}
